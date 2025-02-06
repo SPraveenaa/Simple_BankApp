@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533142724279",
+    "project_id": "login-bank-86825",
+    "storage_bucket": "login-bank-86825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533142724279:android:27a7b61d6af614c2d2b732",
+        "android_client_info": {
+          "package_name": "com.example.login_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533142724279-pbjnpvnm1hnt3ei37cd8otnjosggeegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeba9liwAPLoXLaE6zuRQ-WCVib5fG2nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533142724279-pbjnpvnm1hnt3ei37cd8otnjosggeegm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

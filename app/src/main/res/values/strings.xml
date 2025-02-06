@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_Bank</string>
+
+    <string-array name="dropdown_options">
+        <item>Cash on hand</item>
+        <item>Card payment</item>
+        <item>BOC account transfer</item>
+    </string-array>
+
+</resources>
